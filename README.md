@@ -108,8 +108,8 @@ Enter the Designation :
 4.Professor 
 5. Exit
 2
-Name of The Employee :karthi***** payslip ****
-Employee Name: karthi
+Name of The Employee :danush***** payslip ****
+Employee Name: danush
 Employee_ID: 109
 Address: 25,kandamangalam
 Mobile Number: 8778239906
